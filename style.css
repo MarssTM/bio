@@ -1,0 +1,45 @@
+h1 {
+	color: #EBBCFE;
+	text-align: center;
+	font-family: 'Dosis', sans-serif;
+	background-color: purple;
+	margin:40px;
+	padding: 20px;
+}
+h2 {
+	font-size: 25px;
+	color: #4CABE7;
+	text-align: center;
+	font-family: 'Dosis', sans-serif;
+	border-style: dotted;
+	border-color: #4CABE7;
+	padding: 20px;
+}
+body {
+	background-color: #FFEBF1 ;
+}
+h3 {
+	font-size: 20px;
+	font-family: 'Dosis', sans-serif;
+	margin: 40px 40px 40px;
+	color: purple;
+}
+p {
+	font-size: 20px;
+	font-family: 'Dosis', sans-serif;
+	margin-bottom: 20px;
+	color: #0B387E;
+}
+div {
+	margin-top: 40px;
+}
+li {
+	font-family: 'Dosis', sans-serif;
+	line-height: 20px;
+}
+.bio {
+	width: 300px;
+}
+.cabezas {
+
+}
